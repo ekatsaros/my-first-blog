@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'pytdev$djangotest',
         'USER': 'pytdev',
         'PASSWORD': 'djangopass',
-        'HOST': 'localhost',
+        'HOST': 'pytdev.mysql.pythonanywhere-services.com',
         'PORT': '',
     }
 }
